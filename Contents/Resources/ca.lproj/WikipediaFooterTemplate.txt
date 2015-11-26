@@ -1,0 +1,1 @@
+<div>Vegeu la <a href="%@">pàgina web</a>.</div><div id="copyright">Busqueu termes de llicència específics a la pàgina. <a href="x-dictionary:r:&#39;Wikipedia:Copyrights&#39;" title="Wikipedia:Copyrights">Condicions d’ús</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Descàrrec de responsabilitats">Descàrrec de responsabilitats</a></div>

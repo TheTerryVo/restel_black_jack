@@ -1,0 +1,1 @@
+<div><a href="%@">웹 페이지</a> 보기.</div><div id="copyright">특정 사용권 약관에 대한 페이지 확인하기. <a href="x-dictionary:r:&#39;Wikipedia:Copyrights&#39;" title="위키백과:저작권">저작권</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:면책 사항">면책 사항</a></div>

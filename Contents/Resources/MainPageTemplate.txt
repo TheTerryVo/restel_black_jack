@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <script type="text/javascript" src="MainPageJavaScript.js"></script>
+		<link rel="stylesheet" type="text/css" href="MainPageStyle.css" />
+		<!-- <link rel="stylesheet" type="text/css" media="print" href="commonPrint.css" /> -->
+	</head>
+	
+	<body class="apple_all_view_body" onload="mainPageLoaded()">
+	<div class="apple_not_found" id="not_found_for_all" apple_mouseover_disable="1" dir="auto"></div>
+	%@
+	</body>
+
+</html>

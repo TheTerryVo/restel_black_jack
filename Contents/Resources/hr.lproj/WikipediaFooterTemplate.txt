@@ -1,0 +1,1 @@
+<div>Prikaži <a href="%@">web stranicu</a>.</div><div id="copyright">Odredbe licenciranja potražite na stranici. <a href="x-dictionary:r:&#39;Wikipedija:Autorsko_pravo&#39;" title="Wikipedija:Autorsko_pravo">Autorska prava</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Disclaimer">Odricanje od jamstava</a></div>

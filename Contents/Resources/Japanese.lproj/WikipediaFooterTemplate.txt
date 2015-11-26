@@ -1,0 +1,1 @@
+<div><a href="%@">Web ページ</a>を表示します。</div><div id="copyright">特定の使用許諾契約条項について詳しくは、Web ページを確認してください。<a href="x-dictionary:r:&#39;Wikipedia:Copyrights&#39;" title="Wikipedia:コピーライト">コピーライト</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:免責事項">免責事項</a></div>

@@ -1,0 +1,1 @@
+<div>Visualizza la <a href="%@">pagina web</a>.</div><div id="copyright">In questa pagina sono riportate le condizioni di licenza specifiche. <a href="x-dictionary:r:&#39;Wikipedia:Copyrights&#39;" title="Wikipedia:Copyrights">Copyright</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Disclaimer">Disclaimer</a></div>

@@ -1,0 +1,1 @@
+<div>ดู <a href="%@">เว็บเพจ</a></div><div id="copyright">ตรวจสอบหน้านี้เพื่อหาเงื่อนไขการออกใบอนุญาต <a href="x-dictionary:r:&#39;วิกิพีเดีย:ลิขสิทธิ์&#39;" title="วิกิพีเดีย:ลิขสิทธิ์">ลิขสิทธิ์</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:ข้อสงวนสิทธิ์">ข้อสงวนสิทธิ์</a></div>

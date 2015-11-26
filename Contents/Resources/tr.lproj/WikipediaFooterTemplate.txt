@@ -1,0 +1,1 @@
+<div><a href="%@">Web sayfasını</a> görüntüle.</div><div id="copyright">Özel lisans maddeleri için sayfayı denetleyin. <a href="x-dictionary:r:&#39;Vikipedi:Telif_hakları&#39;" title="Vikipedi:Telif Hakları">Telif Hakları</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Sorumluluk Reddi">Sorumluluk Reddi</a></div>

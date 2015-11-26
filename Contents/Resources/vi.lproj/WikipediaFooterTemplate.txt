@@ -1,0 +1,1 @@
+<div>Xem <a href="%@">trang web</a>.</div><div id="copyright">Kiểm tra trang cho các điều khoản cấp phép cụ thể. <a href="x-dictionary:r:&#39;Wikipedia:Copyrights&#39;" title="Wikipedia:Copyrights">Bản quyền</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Disclaimer">Tuyên bố từ chối</a></div>

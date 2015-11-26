@@ -1,0 +1,1 @@
+﻿<div>Navštívte <a href="%@">webovú stránku</a>.</div><div id="copyright">Špecifické licenčné podmienky si pozrite na stránke. <a href="x-dictionary:r:&#39;Wikipédia:Autorské_práva&#39;" title="Wikipedia:Copyrights">Autorské práva</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Disclaimer">Zrieknutie sa práv</a></div>

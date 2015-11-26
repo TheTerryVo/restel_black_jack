@@ -1,0 +1,1 @@
+<div>Katso <a href="%@">verkkosivu</a>.</div><div id="copyright">Tarkista sivulta yksityiskohtaiset lisenssiehdot. <a href="x-dictionary:r:&#39;Wikipedia:Tekijänoikeudet&#39;" title="Wikipedia:Tekijänoikeudet">Tekijänoikeudet</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Vastuuvapaus">Vastuuvapaus</a></div>

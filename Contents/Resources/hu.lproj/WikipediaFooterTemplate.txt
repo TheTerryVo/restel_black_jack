@@ -1,0 +1,1 @@
+<div> <a href="%@">Weboldal</a> megtekintése.</div><div id="copyright">Tekintse meg az oldalon a vonatkozó licencfeltételeket. <a href="x-dictionary:r:&#39;Wikipédia:Szerzői jogok&#39;" title="Wikipédia:Szerzői jogok">Szerzői jogok</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Jogi nyilatkozat">Jogi nyilatkozat</a></div>

@@ -1,0 +1,1 @@
+<div>Kig på <a href=“%@”>websiden</a>.</div><div id="copyright">Kontroller siden for specifikke licensvilkår. <a href="x-dictionary:r:&#39;Wikipedia:Ophavsret&#39;" title="Wikipedia:Ophavsret">Ophavsrettigheder</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Disclaimer">Ansvarsfraskrivelse</a></div>

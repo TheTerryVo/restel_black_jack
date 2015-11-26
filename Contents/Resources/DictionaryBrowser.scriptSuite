@@ -1,0 +1,11 @@
+{
+    Name = DictionaryBrowser;
+    AppleEventCode = "DICT";
+    Commands = {
+        "GetURL" = {
+            AppleEventCode = GURL;
+            AppleEventClassCode = GURL;
+            CommandClass = GetURLScriptCommand;
+         };
+    };
+}

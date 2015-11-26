@@ -1,0 +1,1 @@
+<div>查看<a href="%@">网页</a>。</div><div id="copyright">请参阅以下网页，了解具体的许可条款。<a href="x-dictionary:r:&#39;Wikipedia:Copyrights&#39;" title="维基百科:版权信息">版权信息</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:免责声明">免责声明</a></div>

@@ -1,0 +1,1 @@
+<div>Lihat <a href="%@">kaman web page</a>.</div><div id="copyright">Semak halaman untuk terma perlesenan tertentu <a href="x-dictionary:r:&#39;Wikipedia:Copyrights&#39;" title="Wikipedia:Hak cipta">Hak cipta</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Notis Penafian">Notis Penafian </a></div>

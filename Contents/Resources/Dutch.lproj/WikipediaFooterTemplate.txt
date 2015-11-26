@@ -1,0 +1,1 @@
+<div>View <a href="%@">webpagina</a>.</div><div id="copyright">Raadpleeg de pagina voor specifieke licentievoorwaarden.<a href="x-dictionary:r:&#39;Wikipedia:Copyrights&#39;" title="Wikipedia:Copyrights">Auteursrechten</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Disclaimer">Vrijwaringsclausule</a></div>

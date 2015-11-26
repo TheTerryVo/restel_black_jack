@@ -1,0 +1,1 @@
+<div>הצג את <a href="%@">עמוד האינטרנט</a>.</div><div id="copyright">עיין/י בעמוד זה לפרטים ספציפיים בנושא רישוי. <a href="x-dictionary:r:&#39;ויקיפדיה:זכויות_יוצרים&#39;" title="ויקיפדיה:זכויות יוצרים">זכויות יוצרים</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:גילוי נאות">גילוי נאות</a></div>

@@ -1,0 +1,1 @@
+<div>عرض <a href="%@">صفحة الويب</a>.</div><div id="copyright">قم بتحقق الصفحة لشروط الترخيص المحددة. <a href="x-dictionary:r:&#39;ويكيبيديا:حقوق_التأليف_والنشر&#39;" title="Wikipedia:Copyrights">حقوق النشر</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Disclaimer">إخلاء مسؤولية</a></div>

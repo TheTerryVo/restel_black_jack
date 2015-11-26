@@ -1,0 +1,1 @@
+<div>Переглянути <a href="%@">веб-сторінку</a>.</div><div id="copyright">Перевірте наявність певних умов ліцензування на цій сторінці. <a href="x-dictionary:r:&#39;Вікіпедія:Авторські_права&#39;" title="Вікіпедія:Авторські_права">Авторські права</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Disclaimer">Застереження</a></div>

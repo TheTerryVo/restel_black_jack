@@ -1,0 +1,1 @@
+<div>Δείτε την <a href="%@">ιστοσελίδα</a>.</div><div id="copyright">Ελέγξτε τη σελίδα για συγκεκριμένους όρους άδειας χρήσης. <a href="x-dictionary:r:&#39;Wikipedia:Copyrights&#39;" title="Wikipedia:Copyrights">Πνευματικά δικαιώματα</a>&nbsp;&nbsp;&nbsp;<a href="x-dictionary:r:&#39;Apple:Disclaimer&#39;" title="Apple:Disclaimer">Αποποίηση</a></div>
