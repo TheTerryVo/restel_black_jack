@@ -12,3 +12,8 @@ public class BlackJack {
 	};
 	
 	}
+
+	public void getCartes(){
+		return cartes;
+		
+	}
