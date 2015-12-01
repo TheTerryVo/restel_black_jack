@@ -1,2 +1,6 @@
 # Restel Black Jack
-Remarques:
+Remarques: Si vous avez des questions a poser pendant l'exam, edit le fichier questions.java.
+
+Que la force du Java soit avec vous :P
+
+Julio & Thierry
