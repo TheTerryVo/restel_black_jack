@@ -31,7 +31,7 @@ public class BlackJack {
 	public static int distribueCartes () {
 		return (cartes[(int) (Math.random() * 100) % 52]);
 	}
-	
+	 
 	public static void startBlackJack () {
 		myCard1 = distribueCartes();
 		myCard2 = distribueCartes();
